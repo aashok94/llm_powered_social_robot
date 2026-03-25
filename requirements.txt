@@ -1,0 +1,7 @@
+numpy
+scipy
+sounddevice
+torch
+faster-whisper
+ollama
+qwen-tts 
