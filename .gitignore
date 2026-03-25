@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.wav
+*.pt
+.env
+conversation_log.txt
