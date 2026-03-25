@@ -33,7 +33,7 @@ This project was tested on:
 ```bash
 sudo apt update
 sudo apt install sox libsox-fmt-all -y
-````
+```
 
 Verify:
 
@@ -174,5 +174,4 @@ At startup, choose mode:
 * No voice activity detection (VAD)
 * CPU-only inference is slow for real-time interaction
 
-```
 ```
