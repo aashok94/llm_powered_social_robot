@@ -1,4 +1,3 @@
-````markdown
 ## Tested System Configuration
 
 This project was tested on:
@@ -174,4 +173,3 @@ At startup, choose mode:
 * No voice activity detection (VAD)
 * CPU-only inference is slow for real-time interaction
 
-```
