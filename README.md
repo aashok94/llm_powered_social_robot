@@ -28,7 +28,7 @@ This project was tested on:
 
 ## System Dependencies (Ubuntu 22.04)
 
-### Install SoX (required for audio)
+### 1. Install SoX (required for audio)
 ```bash
 sudo apt update
 sudo apt install sox libsox-fmt-all -y
@@ -40,7 +40,7 @@ Verify:
 sox --version
 ```
 
-### Install PortAudio (required for microphone input)
+### 2. Install PortAudio (required for microphone input)
 ```bash
 sudo apt update
 sudo apt install portaudio19-dev -y
