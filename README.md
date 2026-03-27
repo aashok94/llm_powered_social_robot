@@ -40,6 +40,12 @@ Verify:
 sox --version
 ```
 
+### Install PortAudio (required for microphone input)
+```bash
+sudo apt update
+sudo apt install portaudio19-dev -y
+```
+
 ---
 
 ## Setup Instructions
